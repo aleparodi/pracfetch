@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nombre": "CARTON CORRUGADO",
+        "marca": "CARTOON",
+        "precio": 1300,
+        "stock": 25,
+        "img": "cartoncorrugado.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "CINTA",
+        "marca": "DOBLE A",
+        "precio": 520,
+        "stock": 35,
+        "img": "cintaembalar.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "CINTA PAPEL",
+        "marca": "STRECH",
+        "precio": 600,
+        "stock": 45,
+        "img": "cintapapel.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "FILM STRECH",
+        "marca": "STRECH",
+        "precio": 1200,
+        "stock": 25,
+        "img": "filmstretch2.jpeg"
+    }
+
+] 
